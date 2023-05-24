@@ -7,3 +7,4 @@ venv
 __pycache__
 .breakpoints
 driver.py
+.DS_Store
