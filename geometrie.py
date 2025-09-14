@@ -1,3 +1,7 @@
+"""Estelle Doriot
+Dessins géomatriques avec turtle
+"""
+
 from turtle import *
 
 # carré
