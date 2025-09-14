@@ -1,0 +1,7 @@
+[project]
+name = "turtle-geometrie"
+version = "0.1.0"
+description = "Exercices de géométrie avec le module turtle pour débutants en Python"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
